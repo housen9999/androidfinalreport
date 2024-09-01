@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-lite:18.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f004341f412c71f3e70f85a9203343b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f004341f412c71f3e70f85a9203343b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f004341f412c71f3e70f85a9203343b/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2fc0ed2b7f55ac7e8cba294ea90d039/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2fc0ed2b7f55ac7e8cba294ea90d039/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2fc0ed2b7f55ac7e8cba294ea90d039/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-lite/18.3.0/c08609e7434099cc6e5b3b495eb2edadab6aeaf2/play-services-ads-lite-18.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

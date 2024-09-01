@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tw.edu.scu.avgexample">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".framework.KWAvgApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Clik8Activity"></activity>
+        <activity android:name=".Clik7Activity" />
+        <activity android:name=".Clik6Activity" />
+        <activity android:name=".Clik5Activity" />
+        <activity android:name=".Clik4Activity" />
+        <activity android:name=".EndActivity3" />
+        <activity android:name=".End2Activity" />
+        <activity android:name=".End1Activity" />
+        <activity android:name=".MyScene9Activity" />
+        <activity android:name=".MyScene8Activity" />
+        <activity android:name=".MyScene7Activity" />
+        <activity android:name=".MyScene6Activity" />
+        <activity android:name=".Clik3Activity" />
+        <activity android:name=".Clik2Activity" />
+        <activity android:name=".MyScene5Activity" />
+        <activity android:name=".MyScene4Activity" />
+        <activity android:name=".MyScene3Activity" />
+        <activity android:name=".MyScene2Activity" />
+        <activity android:name=".MyScene1Activity" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9964618295477835~2689386481" />
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".sample.SampleSplashActivity" />
+        <activity android:name=".sample.SampleCopyrightActivity" />
+        <activity android:name=".sample.SampleScene_1_Activity" />
+        <activity android:name=".sample.SampleScene_2_Activity" />
+        <activity android:name=".sample.SampleEndScene_1_Activity" />
+        <activity android:name=".sample.SampleScene_3_Activity" />
+        <activity android:name=".sample.SampleScene_4_Activity" />
+        <activity android:name=".sample.SampleScene_5_Activity" />
+        <activity android:name=".sample.SampleScene_6_Activity" />
+        <activity android:name=".sample.SampleScene_7_Activity" />
+        <activity android:name=".sample.SampleEndScene_2_Activity" />
+        <activity android:name=".sample.SampleEndScene_3_Activity" />
+        <activity android:name=".sample.SampleMenuSwitchSceneActivity" />
+        <activity android:name=".sample.SampleMenuMainActivity" />
+    </application>
+
+</manifest>
